@@ -28,6 +28,7 @@ def main():
     PrintVehicle(v1)
     v1.litres(6)
     PrintVehicle(v1)
+    print(v1)
     
 
 if __name__ == "__main__": main()

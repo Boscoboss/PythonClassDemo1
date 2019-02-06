@@ -25,6 +25,7 @@ def main():
     PrintVehicle(v1)
     v2= Vehicle()
     PrintVehicle(v2)
+   
     
 
 if __name__ == "__main__": main()
